@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **.Net core, FastApi, Docker, K8S**
+- 💬 Ask me about **.Net core, Django, FastApi, Docker, K8S**
 
 - 📫 How to reach me **turansalihcan06@gmail.com**
 

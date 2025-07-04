@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salih Can Turan</h1>
-<h3 align="center">A dedicated DevOps and backend developer from Turkey</h3>
+<h3 align="center">  DevOps and backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **a mobile application, focusing on its CI/CD pipeline and DevOps operations.**
 
